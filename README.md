@@ -9,15 +9,15 @@
 ***
 #### Тест-кейсы #####
 
-1.	[Функциональность веб-приложения](http://example.com/)
-2.	Функциональность мобильного приложения	
+1.	[Функциональность веб-приложения](test_cases/test_cases.md)  
+2.	<a href="https://github.com/ShapovalovaEV/test/blob/main/test_cases/test_cases.md#abcd"> Функциональность мобильного приложения </a>
 
 #### Чек-листы #####
 
-1.	Функциональность веб-приложения	
-2.	Функциональность мобильного приложения	
-3.	Верстка
-4.	API	
+1. [Функциональность веб-приложения](check_lists/check_list.md)
+2.	<a href="https://github.com/ShapovalovaEV/test/blob/main/check_lists/check_list.md#a"> Функциональность мобильного приложения </a>
+3.	<a href="https://github.com/ShapovalovaEV/test/blob/main/check_lists/check_list.md#b"> Верстка </a>
+4.	<a href="https://github.com/ShapovalovaEV/test/blob/main/check_lists/check_list.md#c"> API </a>
 
 #### Bug-репорты #####
 
