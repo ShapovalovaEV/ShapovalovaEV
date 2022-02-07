@@ -21,10 +21,10 @@
 
 #### Bug-репорты #####
 
-1.	Функциональность веб-приложения	
-2.	Функциональность мобильного приложения	
-3.	Верстка
-4.	API	
+1.	[Функциональность веб-приложения](bug_reports/bug_reports.md)
+2.	<a href="https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_reports.md#a"> Функциональность мобильного приложения </a>
+3.	<a href="https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_reports.md#b"> Верстка </a>
+4.	<a href="https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_reports.md#c"> API </a>
 
 <!---
 ShapovalovaEV/ShapovalovaEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
