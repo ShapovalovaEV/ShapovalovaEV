@@ -4,7 +4,8 @@
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%201.2.png)
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%201.3.png)
 
-<a id="a"> Примеры баг-репортов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </a>
+<a id="a"> </a>
+<ins> Примеры баг-репортов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </ins>
 
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%202.1.png)
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%202.2.png)
