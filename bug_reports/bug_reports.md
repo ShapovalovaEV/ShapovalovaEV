@@ -4,19 +4,18 @@
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%201.2.png)
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%201.3.png)
 
-<a name="a"> </a>
-<ins> Примеры баг-репортов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </ins>
+<a id="a"> Примеры баг-репортов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </a>
 
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%202.1.png)
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%202.2.png)
 
-<a name="b"> </a>
+<a id="b"> </a>
 <ins> Примеры баг-репортов верстки веб-приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </ins>
 
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%203.1.png)
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%203.2.png)
 
-<a name="c"> </a>
+<a id="c"> </a>
 <ins> Примеры баг-репортов API, составленных в рамках учебных проектов на Яндекс.Практикуме. </ins>
 
 ![баг-репорт](https://github.com/ShapovalovaEV/test/blob/main/bug_reports/bug_report%204.1.png)
