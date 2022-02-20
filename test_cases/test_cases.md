@@ -3,7 +3,7 @@
 ![тест-кейс](https://github.com/ShapovalovaEV/test/blob/main/test_cases/test_case%201.1.png)
 ![тест-кейс](https://github.com/ShapovalovaEV/test/blob/main/test_cases/test_case%201.2.png)
 
-<a id="a"> Примеры тест-кейсов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </a>
+<a id="1"> Примеры тест-кейсов функциональности мобильного приложения, составленных в рамках учебных проектов на Яндекс.Практикуме. </a>
 
 ![тест-кейс](https://github.com/ShapovalovaEV/test/blob/main/test_cases/test_case%202.1.png)
 ![тест-кейс](https://github.com/ShapovalovaEV/test/blob/main/test_cases/test_case%202.2.png)
