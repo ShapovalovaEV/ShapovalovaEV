@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elena! I am a newborn QA Engineer. 
+- 👋 Hi, I’m Elena! I am a QA Engineer. 
 - 👀 I have finished QA Engineer Professional Training Course by Yandex.Practicum.
 - 🌱 I’m currently learning Jmeter.
 - 📫 How to reach me fiona91@yandex.ru
